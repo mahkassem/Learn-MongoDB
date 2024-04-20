@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Margaret",
+    "Price": 9.99,
+    "Description": "A classic margaret pizza with tomato sauce, mozzarella cheese, and basil.",
+    "Category": "Pizza",
+    "Image": "https://www.pizzahut.com/assets/w/pizza/margherita/medium/margherita.png",
+    "Topings": ["Pepperoni", "Mushrooms", "Olives", "Onions", "Green Peppers", "Jalapenos", "Pineapple", "Tomatoes"]
+  },
+  {
+    "Name": "Pepperoni",
+    "Price": 11.99,
+    "Description": "A classic pepperoni pizza with tomato sauce, mozzarella cheese, and pepperoni.",
+    "Category": "Pizza",
+    "Image": "https://www.pizzahut.com/assets/w/pizza/pepperoni/medium/pepperoni.png",
+    "Ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni"],
+    "Topings": ["Pepperoni", "Mushrooms", "Olives", "Onions", "Green Peppers", "Jalapenos", "Pineapple", "Tomatoes"]
+  },
+  {
+    "Name": "Cheese Burger",
+    "Price": 12.99,
+    "Description": "A classic cheese burger with lettuce, cheese, ground beef, and pickles.",
+    "Category": "Sandwich",
+    "Image": "https://www.pizzahut.com/assets/w/pizza/cheeseburger/medium/cheeseburger.png",
+  },
+  {
+    "Name": "Chicken Burger",
+    "Price": 12.99,
+    "Description": "A classic chicken burger with lettuce, chicken, and pickles.",
+    "Category": "Sandwich",
+    "Image": "https://www.pizzahut.com/assets/w/pizza/chicken/medium/chicken.png",
+  },
+  {
+    "Name": "Coke",
+    "Price": 1.99,
+    "Description": "A classic coke.",
+    "Category": "Drink",
+    "Image": "https://www.pizzahut.com/assets/w/pizza/coke/medium/coke.png",
+  },
+  {
+    "Name": "Pepsi",
+    "Price": 1.99,
+    "Description": "A classic pepsi.",
+    "Category": "Drink",
+    "Image": "https://www.pizzahut.com/assets/w/pizza/pepsi/medium/pepsi.png",
+  }
+]

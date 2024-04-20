@@ -1,0 +1,47 @@
+[
+  {
+    _id: ObjectId('661dd936cc455df882a1f1e9'),
+    "CustomerID": ObjectId('661dd8b2cc455df882a1f1e2'),
+    "Status": "active",
+    "CreatedAt": "2024-03-01T00:00 UTC",
+    "Products": [
+      {
+        "ProductID": 2,
+        "ProductName": "Pepperoni Pizza",
+        "Quantity": 1,
+        "Price": 9.99,
+        "Toppings": [
+          "pepperoni",
+          "cheese",
+          "tomato sauce"
+        ]
+      },
+      {
+        "ProductID": 3,
+        "ProductName": "Cheese Burger Sandwich",
+        "Quantity": 2,
+        "Price": 25.98
+      }
+    ]
+  },
+  {
+    _id: ObjectId('661dd936cc455df882a1f1ea'),
+    "CustomerID": ObjectId('661dd8b2cc455df882a1f1e2'),
+    "Status": "completed",
+    "CreatedAt": "2024-02-01T00:00 UTC",
+    "Products": [
+      {
+        "ProductID": 5,
+        "ProductName": "Coke Drink",
+        "Quantity": 1,
+        "Price": 1.99
+      },
+      {
+        "ProductID": 6,
+        "ProductName": "Sprite Drink",
+        "Quantity": 2,
+        "Price": 3.98
+      }
+    ]
+  }
+]

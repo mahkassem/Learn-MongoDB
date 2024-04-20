@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Ahmed Fathy",
+    "Email": "ahmed@fathy.com",
+    "Address": "1512, 6th district, Cairo",
+    "DeliveryLocation": {
+      "Latitude": 30.012345,
+      "Longitude": 31.012345
+    }
+  },
+  {
+    "Name": "Mohamed Salah",
+    "Email": "mohamed@salah.com",
+    "Address": "19, Salah Salem, Cairo",
+    "Phone": "0123456789",
+    "DeliveryLocation": {
+      "Latitude": 30.203194,
+      "Longitude": 31.313194
+    }
+  },
+  {
+    "Name": "Mohamed Elneny",
+    "Email": "",
+    "Address": "Elmokattam, Cairo",
+    "Phone": "0123456781",
+    "Country": "Egypt"
+  }
+]
